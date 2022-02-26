@@ -1,0 +1,112 @@
+/***************************************************************************************
+                                THANK YOU EDUREKA
+                            TODAY I CAN ALSO DO THIS
+                                GOD BLESS YOU ALL
+                             ->FROM JERRY BABATUNDE<-
+****************************************************************************************/
+
+h2 {
+    height: 33px;
+    font-family: Poppins;
+    font-size: 30px;
+    color: #192f60;
+    margin-top: 30px;
+    margin-bottom: 14px;
+}
+
+h4 {
+    height: 25px;
+    font-family: Poppins;
+    font-size: 18px;
+    color: #8c96ab;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.heading1 {
+        height: 30px;
+        font-family: Poppins;
+        font-size: 20px;
+        color: #192f60;
+}
+
+.mybanner {
+    width: 100%;
+    height: 480px;
+    background-image: url(../images/banner.png);
+}
+
+.btn {
+    color: #fff;
+}
+
+.login {
+    font-size: larger;
+    color: #fff;
+}
+
+.createaccount {
+    font-size: larger;
+    color: #fff;
+    /*border: solid 1px #fff; */
+    border-radius: 3px;
+    padding: 5px;
+}
+
+.circularbackground {
+    width: 147px;
+    height: 147px;
+    padding: 24px 40px 24px 17px;
+    background-color: #fff;
+    border-radius: 50%;
+}
+
+.logo {
+    font-family: poppins;
+    font-size: 70px;
+    font-weight: 800;
+    color: #eb2929;
+}
+
+.desc {
+    font-family: poppins;
+    font-size: 36px;
+    color: #fff;
+    font-weight: 600;   
+}
+
+.find {
+    width: 100%;
+    height: 60px;
+    background-color: #fff;
+}
+
+
+
+.card{
+    border-radius: 0%;
+    box-shadow: 0px 3px 3px 0px #dee2e6;
+    margin-bottom: 10px;
+    border-color: #fff;
+    cursor: pointer;
+}
+
+.card-text{
+    color: #8c96ab;
+    font-size: 20px;
+}
+
+.fill {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
+
+.fill img {
+    object-fit: cover;
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+/***********************************END OF CSS CODE****************************************/
